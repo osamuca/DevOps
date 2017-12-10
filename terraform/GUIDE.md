@@ -1,0 +1,33 @@
+## Install guide
+
+### Macos
+
+```bash
+brew install terraform
+brew install ansible
+```
+
+### Linux
+
+```bash
+sudo apt-get install terraform 
+sudo pip install ansible
+```
+
+[Download Page](!https://www.terraform.io/downloads.html)
+
+
+## Terraform project init
+
+* Enter in a project folder: 
+
+```bash
+terraform init 
+terraform apply
+```
+
+## Blog Posts
+
+* [[PT-BR] Realizando deploys automatizados de instâncias EC2 com Load Balancer na AWS com Terraform](http://www.nanoshots.com.br/2017/11/realizando-deploys-automatizados-de.html) 
+
+**FONTE:** Matheus Fidelis
